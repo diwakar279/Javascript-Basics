@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin: 20px 0;
+    background-color: hwb(0 0% 100%);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+select{
+    margin: 20px 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+    color: white;
+    padding: 1%;
+    outline: none;
+    border-radius: 5px;
+    margin: 1% ;
+}
+
+#btn{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:black;
+    color: white;
+    padding: 1%;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
